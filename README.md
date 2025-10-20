@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-  src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;UI/UX+Designer;AI+|+ML+Enthusiast;Always+Learning+New+Things&center=true&width=650&height=70&color=00FFFF&vCenter=true&pause=1000&size=28"
+  src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;AI+|+ML+Enthusiast;UI/UX+Designer;Always+Learning+New+Things&center=true&width=650&height=70&color=00FFFF&vCenter=true&pause=1000&size=28"
   alt="Typing Animation"/>
 
 </p>
@@ -102,9 +102,9 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-</p>
+</p> -->
 
 ---
 
